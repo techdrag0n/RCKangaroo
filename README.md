@@ -1,3 +1,10 @@
+Im a hobbiest c++/CUDA programmer with no formal training in programming.
+  I have been working on my own Kangaroo software for some time now. 
+I found this project and discovered it apears to make several improvments over my current implementation 
+not only the SOTA search but raw points generated per second.
+Im hoping I can modify this to work for creating the points for my own searches as well as learn more about
+ how the SOTO/SOTO+ works and hopefully implement it into my own searches if its not already.
+
 TODO:
 - understand SOTA/SOTA+
 - find where DP is evaluated on GPU

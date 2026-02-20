@@ -5,7 +5,7 @@
 
 
 #pragma once 
-
+// suppress warnings about deprecated functions in Visual Studio
 #pragma warning(disable : 4996)
 
 typedef unsigned long long u64;
